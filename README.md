@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdiEkaChandra/color-blindness-correction/blob/main/SDI_Hacktiv_Data_Adi_Eka_Chandra_Diana.ipynb)
+
 # Evaluasi Efektivitas Koreksi Buta Warna (Color Blindness Correction)
 
 ## Gambaran Umum
@@ -70,7 +72,7 @@ AI digunakan pada dua bagian utama:
 ## Struktur Repository
 ```
 color-blindness-correction/
- ├─ SDI Hacktiv Data - Adi Eka Chandra Diana.ipynb
+ ├─ SDI_Hacktiv_Data_Adi_Eka_Chandra_Diana.ipynb
  ├─ data/
  │   ├─ original/
  │   ├─ simulated/{protanopia,deuteranopia,tritanopia}/
